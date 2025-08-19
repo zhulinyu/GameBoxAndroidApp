@@ -1,3 +1,4 @@
+#验证可用；这是一个集成web游戏的GameBox--2025-08-19
 # GameBoxAndroidApp
 ![GameBoxAndroidApp Logo](/app/src/main/ic_launcher-playstore.png)
 - GameBox is an Android app that lets users discover and play a variety of mobile games.
